@@ -18,6 +18,8 @@
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Rafadegolin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadegolin&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ > Tecnologias que estou utilizando hoje em dia
+ >
 <div style="display: inline_block"><br>
   <img align="center" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
