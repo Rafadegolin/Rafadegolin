@@ -25,7 +25,7 @@
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadegolin&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-## Tecnologias que estou utilizando e estudando hoje em dia / Technologies I'm using and studying nowadays
+## 🌎🇧🇷 Tecnologias que estou utilizando e estudando hoje em dia / 🌎🇺🇸 Technologies I'm using and studying nowadays
 
 > WEB - HTML, CSS, JavaScript, ReactJS
 > 
