@@ -8,23 +8,16 @@
 > 
 > 🖥️ Estou me formando em Engenharia da Computação.
 > 
-> 🌱 Estou estudando programação (Python, HTML, CSS, JavaScript, React, C++).
+> 🌱 Estou estudando programação para me tornar um DEV completo.
 
 🌎🇺🇸
 > 🔭 Today I work as an intern at Motorola.
 > 
 > 🖥️ I'm graduating in Computer Engineering.
 > 
-> 🌱 I'm studying programming (Python, HTML, CSS, JavaScript, React, C++).
+> 🌱 I'm studying programming to become a complete DEV.
 
 ##
-
->🌎🇧🇷 - Quer me encontrar em alguma rede social?
->
->🌎🇺🇸 - Want to find me on any social network?
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-degolin-da-silva-0352b31a1/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_degolin/)
 
 <div align="center">
   <a href="https://github.com/Rafadegolin">
@@ -32,12 +25,9 @@
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadegolin&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-## Tecnologias que estou utilizando hoje em dia
+## Tecnologias que estou utilizando e estudando hoje em dia / Technologies I'm using and studying nowadays
 
-<div>
-  <img align="center" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
+> WEB - HTML, CSS, JavaScript, ReactJS
+> Mobile (Android) - Java, Kotlin
+> API Build - Python (Flask, SQLAlchemy)
+> Programming logic in general - C, C++, Python
