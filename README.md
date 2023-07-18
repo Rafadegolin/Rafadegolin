@@ -8,14 +8,14 @@
 > 
 > 🖥️ Estou me formando em Engenharia da Computação.
 > 
-> 🌱 Estou estudando programação (Python, HTML, CSS, JavaScript, C++).
+> 🌱 Estou estudando programação (Python, HTML, CSS, JavaScript, React, C++).
 
 🌎🇺🇸
 > 🔭 Today I work as an intern at Motorola.
 > 
 > 🖥️ I'm graduating in Computer Engineering.
 > 
-> 🌱 I'm studying programming (Python, HTML, CSS, JavaScript, C++).
+> 🌱 I'm studying programming (Python, HTML, CSS, JavaScript, React, C++).
 
 ##
 
