@@ -28,6 +28,9 @@
 ## Tecnologias que estou utilizando e estudando hoje em dia / Technologies I'm using and studying nowadays
 
 > WEB - HTML, CSS, JavaScript, ReactJS
+> 
 > Mobile (Android) - Java, Kotlin
+> 
 > API Build - Python (Flask, SQLAlchemy)
+> 
 > Programming logic in general - C, C++, Python
