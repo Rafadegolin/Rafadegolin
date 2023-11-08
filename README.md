@@ -20,7 +20,6 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/Rafadegolin">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadegolin&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
