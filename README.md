@@ -4,14 +4,14 @@
   <p>🌎🇺🇸 - My name is Rafael Degolin, I'm from Brazil and I'm venturing into the world of programming, creating several projects, learning a lot to one day become a complete dev!<br></p>
 
 🌎🇧🇷
-> 🔭 Hoje trabalho como estagiário na Motorola.
+> 🔭 Hoje trabalhando na...
 > 
 > 🖥️ Estou me formando em Engenharia da Computação.
 > 
 > 🌱 Estou estudando programação para me tornar um DEV completo.
 
 🌎🇺🇸
-> 🔭 Today I work as an intern at Motorola.
+> 🔭 Today working at...
 > 
 > 🖥️ I'm graduating in Computer Engineering.
 > 
@@ -25,10 +25,10 @@
  
 ## 🌎🇧🇷 Tecnologias que estou utilizando e estudando hoje em dia / 🌎🇺🇸 Technologies I'm using and studying nowadays
 
-> WEB - HTML, CSS, JavaScript, ReactJS, TailwindCSS
+> WEB - HTML, CSS, JavaScript, ReactJS, TailwindCSS, 
 > 
-> Mobile (Android) - Java, Kotlin
+> Mobile (Android) - React Native, Java, Kotlin
 > 
-> API Build - Python (Flask, SQLAlchemy)
+> API Build - Python (Flask, SQLAlchemy), NodeJS
 > 
 > Programming logic in general - C, C++, Python
