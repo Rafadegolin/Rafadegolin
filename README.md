@@ -4,18 +4,18 @@
   <p>🌎🇺🇸 - My name is Rafael Degolin, I'm from Brazil and I'm venturing into the world of programming, creating several projects, learning a lot to one day become a complete dev!<br></p>
 
 🌎🇧🇷
-> 🔭 Hoje trabalhando na...
+> 🔭 Hoje trabalhando na VDV Group ⚡
 > 
-> 🖥️ Estou me formando em Engenharia da Computação.
+> 🖥️ Sou Engenharia da Computação.
 > 
-> 🌱 Estou estudando programação para me tornar um DEV completo.
+> 🌱 Apaixonado por tecnologia, estudando para me tornar um DEV completo com foco em desenvolvimento web.
 
 🌎🇺🇸
-> 🔭 Today working at...
+> 🔭 Today working at VDV Group ⚡
 > 
-> 🖥️ I'm graduating in Computer Engineering.
+> 🖥️ I'm Computer Engineering.
 > 
-> 🌱 I'm studying programming to become a complete DEV.
+> 🌱 Passionate about technology, currently studying to become a full-stack developer with a focus on web development.
 
 ##
 
