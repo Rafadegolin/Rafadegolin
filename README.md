@@ -6,14 +6,14 @@
 🌎🇧🇷
 > 🔭 Hoje trabalhando na VDV Group ⚡
 > 
-> 🖥️ Sou Engenharia da Computação.
+> 🖥️ Sou Engenheiro da Computação.
 > 
 > 🌱 Apaixonado por tecnologia, estudando para me tornar um DEV completo com foco em desenvolvimento web.
 
 🌎🇺🇸
 > 🔭 Today working at VDV Group ⚡
 > 
-> 🖥️ I'm Computer Engineering.
+> 🖥️ I'm a Computer Engineer.
 > 
 > 🌱 Passionate about technology, currently studying to become a full-stack developer with a focus on web development.
 
