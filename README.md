@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Engenheiro da Computação | Desenvolvedor Fullstack</h4>
+<h4 align="left">Computer Engineer | Fullstack developer</h4>
 
 ###
 
