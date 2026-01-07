@@ -29,6 +29,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://rafadegolin-portfolio.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="[https://skillicons.dev/icons?i=vercel](https://raw.githubusercontent.com/Rafadegolin/portfolio/refs/heads/main/src/app/favicon.ico)" />
   </a>
 </div>
