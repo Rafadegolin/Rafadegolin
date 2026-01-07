@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://rafadegolin-portfolio.vercel.app" target="_blank">
-  <img src="https://raw.githubusercontent.com/Rafadegolin/Rafadegolin/3c145f785b083c0a1804926b7dbeb58b7f9c0a19/logo.png" width="16" height="16" />
+  <img src="https://raw.githubusercontent.com/Rafadegolin/Rafadegolin/3c145f785b083c0a1804926b7dbeb58b7f9c0a19/logo.png" width="100" height="100" />
 </a>
 
 </div>
