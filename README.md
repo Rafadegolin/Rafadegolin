@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Social media e Portfolio</h2>
+<h2 align="left">Social media and Portfolio</h2>
 
 ###
 
